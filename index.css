@@ -1,0 +1,30 @@
+body{
+	margin: 0;
+}
+p{
+	font-family: 'Poppins', sans-serif;
+}
+
+.container div{
+	padding: 1%;
+	boxsizing:border-box;
+}
+
+
+.left-col, .right-col {
+  width: 25%;
+  float: left;
+  background-color: skyblue;
+
+}
+
+.center-col {
+  width: 50%;
+  float: left;
+  background-color:pink;
+}
+.footer {
+  width: 50%;
+  float: left;
+  text-align: center; 
+}
